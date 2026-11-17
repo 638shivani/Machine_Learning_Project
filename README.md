@@ -76,8 +76,7 @@ The following results were obtained by evaluating the three algorithms using the
 | CatBoost | 97.78% | 91.72% |
 
 ### Best Performing Model
-
-XGBoost achieved the highest testing accuracy of 91.72% in this evaluation.
+XGBoost as our final model based on its best overall performance, considering its training results, predictive capability, and model-fitting performance.
 
 ## 📈 Model Evaluation Metrics
 
